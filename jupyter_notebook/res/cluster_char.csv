@@ -1,0 +1,21 @@
+Cluster,Venue Position,Venue Type,Counts,Total
+0,1st Most Common Venue,Restaurant; Beach,3; 3,7
+0,2nd Most Common Venue,Gourmet Shop; Eastern European Restaurant,3; 2,7
+1,1st Most Common Venue,Cantonese Restaurant,4,4
+1,2nd Most Common Venue,Sushi Restaurant,4,4
+2,1st Most Common Venue,Coffee Shop; Italian Restaurant,4; 4,9
+2,2nd Most Common Venue,Café; Donut Shop,5; 1,9
+6,1st Most Common Venue,Yoga Studio; Gym / Fitness Center,2; 2,4
+6,2nd Most Common Venue,Gym; Yoga Studio,2; 1,4
+7,1st Most Common Venue,Theater; Hotel,15; 4,19
+7,2nd Most Common Venue,Hotel; Coffee Shop,8; 4,19
+8,1st Most Common Venue,Japanese Restaurant,3,3
+8,2nd Most Common Venue,Spa; Coffee Shop,1; 1,3
+9,1st Most Common Venue,Theme Park Ride / Attraction,3,3
+9,2nd Most Common Venue,Theme Park,3,3
+10,1st Most Common Venue,Tennis Stadium,2,2
+10,2nd Most Common Venue,Bar; Burger Joint,1; 1,2
+11,1st Most Common Venue,Pizza Place,4,4
+11,2nd Most Common Venue,Bar; Coffee Shop,2; 2,4
+12,1st Most Common Venue,Donut Shop,4,4
+12,2nd Most Common Venue,Bakery,4,4
